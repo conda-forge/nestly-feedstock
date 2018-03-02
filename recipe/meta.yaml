@@ -1,6 +1,6 @@
 {% set name = "nestly" %}
-{% set version = "0.6" %}
-{% set sha256 = "209adc1ea67c124a88952dc2d2286b465a0d6516c34c2a81a834f0b094bd2ff3" %}
+{% set version = "0.6.1" %}
+{% set sha256 = "7f74a33a6ba4064ee6a7c0115eb39e517b07d64bdbc37330f365573ed0a0c43f" %}
 
 package:
   name: {{ name|lower }}
