@@ -19,7 +19,7 @@ build:
     - nestagg = nestly.scripts.nestagg:main
   
 requirements:
-  build:
+  host:
     - python
     - setuptools
   run:
